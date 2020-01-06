@@ -50,4 +50,4 @@ Feel free to contribute. Please follow the styles above while creating pull requ
 
 
 ## Demo
-https://xkamson.github.io/application-generator-web/#/
+https://marcinxkaminski.github.io/application-generator-web/#/
