@@ -1,5 +1,4 @@
-## Demo
-https://xkamson.github.io/application-generator-web/#/
+## [DEMO](https://marcinxkaminski.github.io/application-generator-web/#/)
 
 --------------------------------------------------------
 
